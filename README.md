@@ -20,21 +20,21 @@
 
 ### **1️⃣ 安装必要软件**
 
-- **Fake Location**（虚拟定位软件，Root 版本）：  
-  Root 版本可绕过微信的模拟定位检测，可在 GitHub 仓库 [Fake Location](https://github.com/Lerist/FakeLocation/releases) 下载。
+- **Fake Location**（虚拟定位软件，选择Root方式）：  
+  Root方式可绕过微信的模拟定位检测，可在 GitHub 仓库 [Fake Location](https://github.com/Lerist/FakeLocation/releases) 下载。
 
 - **Virtual Master**（运行于安卓系统上的虚拟机）：
   - 运行于手机，无需电脑，轻量化，占用空间小，启动速度快
   - 可隔离环境，与现有系统互不干扰
   - 经过测试，**MuMu 等电脑模拟器可能被小程序检测**，导致部分按钮被遮挡
-  - **虚拟大师** 更稳定，**解锁会员即自带 Root 权限**，可在本仓库下载
+  - **虚拟大师** 更稳定，**本版本解锁会员，自带 Root 权限**，可在仓库中下载
 
 ---
 
 ### **2️⃣ 配置虚拟机**
 
 1. 安装 **虚拟大师** 并完成初始化设置
-2. 下载并导入 **Android 9 ROM** 压缩包（⚠ **比 Android 11 更稳定**），压缩包可到
+2. 下载并导入 **Android 9 ROM** 压缩包（⚠ **比 Android 11 更稳定**）
 3. 在虚拟大师中 **开启 Root 权限**，确保 Fake Location 正常运行
 
 ## ![虚拟大师](imgs/4.jpg)
@@ -42,7 +42,7 @@
 ### **3️⃣ 配置 Fake Location**
 
 1. 在虚拟机内安装微信、Fake Location 等必要软件
-2. 运行 Fake Location，设置 虚拟线路（⚠ 需要会员，可先试用，另一款免费的软件**影梭**貌似也可以，但没有测试过）
+2. 运行 Fake Location，设置 虚拟线路（⚠ 需要会员9r/月，可先试用，另一款免费的软件**影梭**貌似也可以）
 3. 在 Fake Location 内手动画出操场轨迹并保存路线
 4. 设置模拟参数：
    - 循环次数
