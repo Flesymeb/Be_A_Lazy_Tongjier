@@ -8,7 +8,7 @@
 
 ## ✨ **原理简介**
 
-本方法基于 **Fake Location** 和 **Virtual Master**，思路很简单：
+本方法基于 **Fake Location** 和 **Virtual Master**，[可在网盘下载](https://pan.baidu.com/s/1JV2xvv1OQSdqOZaai-FXjQ?pwd=4shm)，思路很简单：
 
 1. 在 **拥有 Root 权限** 的虚拟机中安装 **Fake Location**
 2. 设置 **虚拟线路** 和 **步频模拟**，伪装真实运动轨迹
